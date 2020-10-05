@@ -13,6 +13,7 @@ h1
     margin-bottom: 50px;
 
 }
+
 .card#first,#second,#third
 {
     background-color: tan;
@@ -21,8 +22,9 @@ h1
     margin-right: 1%;
     margin-left: 1%;
     position: relative;
-    border: 2px solid silver;
-    text-overflow: string;
+    border: 2px solid gold;
+    overflow: auto;
+    height: 200px;
  
 }
 .body
@@ -52,8 +54,9 @@ h1
     margin-right: 1%;
     margin-left: 1.9%;
     position: relative;
-    border: 1px solid black;
-    text-overflow: string;
+    border: 3px solid gold;
+     overflow: auto;
+     height: 200px;
  
 }
 .body
